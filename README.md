@@ -1,12 +1,11 @@
-# toDoList
 <h1> Proje ödevi hazırdır </h1>
 
-Yapılacaklar listesi için bir uygulama
+Türkiye turizmi için bir firması olan kişi için hazırlanmış bir web sitesi. 
 
 <h2> Neler ihtiva etmekte </h2>
 
-HTML5, CSS3 ve JS ile oluşturulmuştur. 
+HTML5 ve CSS3 ile oluşturulmuştur. 
 
-<h2> Screen GİF </h2>
+<h2> Screen Gif </h2>
 
 ![](screen.gif)
